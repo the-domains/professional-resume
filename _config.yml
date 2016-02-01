@@ -1,0 +1,14 @@
+layout_spectrum: 0.5738218
+typography_spectrum: 0.1097364
+color:
+  saturation: 0.02731637
+  lightness: 0.7006677
+  brandStrength: 0.8342016
+  rhythmicContrast: 0.5118284
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Professional Resume
