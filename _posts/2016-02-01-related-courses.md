@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:58:49.892Z'
+datePublished: '2016-02-01T22:58:49.915Z'
 dateModified: '2016-02-01T22:58:47.601Z'
 title: Related Courses
 author: []
