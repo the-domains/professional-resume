@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:07:10.852Z'
-dateModified: '2016-02-01T22:06:18.234Z'
+datePublished: '2016-02-01T22:40:26.825Z'
+dateModified: '2016-02-01T22:40:24.548Z'
+title: Related Courses
+author: []
+sourcePath: _posts/2016-02-01-related-courses.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Related Courses
-author: []
-sourcePath: _posts/2016-02-01-related-courses.md
-published: true
-url: related-courses/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Related Courses
