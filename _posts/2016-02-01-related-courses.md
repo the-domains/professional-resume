@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:55:27.568Z'
-dateModified: '2016-02-01T22:55:25.306Z'
-title: ' '
+datePublished: '2016-02-01T22:57:41.200Z'
+dateModified: '2016-02-01T22:57:39.043Z'
+title: Related Courses
 author: []
 sourcePath: _posts/2016-02-01-related-courses.md
 published: true
@@ -22,9 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb4869ff-16c7-42c4-b071-d1b4101b0ae0.jpg)
-
-# 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c618cf3f5e12820bf3f5d4a9121dd970412c397.jpg)
 
 # Related Courses
 
