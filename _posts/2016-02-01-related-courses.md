@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:57:41.235Z'
-dateModified: '2016-02-01T22:57:39.043Z'
+datePublished: '2016-02-01T22:58:49.865Z'
+dateModified: '2016-02-01T22:58:47.601Z'
 title: Related Courses
 author: []
 sourcePath: _posts/2016-02-01-related-courses.md
@@ -22,8 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c618cf3f5e12820bf3f5d4a9121dd970412c397.jpg)
-
 # Related Courses
 
 * Matlab for Engineers
